@@ -37,6 +37,6 @@ pip install paho-mqtt python-dateutil
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/iot-environmental-station.git
+git clone https://github.com/pratiksatpute7/IOT---Assignment-3
 cd iot-environmental-station
 run main.py
