@@ -1,0 +1,429 @@
+[
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:30:17.971690",
+        "temperature": -30.49,
+        "humidity": 77.4,
+        "co2": 1920
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:30:19.977269",
+        "temperature": 44.27,
+        "humidity": 17.04,
+        "co2": 1793
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:30:21.980712",
+        "temperature": 48.14,
+        "humidity": 64.91,
+        "co2": 1577
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:30:23.985676",
+        "temperature": -23.82,
+        "humidity": 45.14,
+        "co2": 1369
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:30:25.989278",
+        "temperature": -7.31,
+        "humidity": 58.72,
+        "co2": 1458
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:30:27.992618",
+        "temperature": -41.43,
+        "humidity": 99.8,
+        "co2": 836
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:30:29.996556",
+        "temperature": -37.0,
+        "humidity": 14.3,
+        "co2": 1695
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:30:32.000759",
+        "temperature": -10.77,
+        "humidity": 8.0,
+        "co2": 624
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:30:34.005373",
+        "temperature": 12.41,
+        "humidity": 23.23,
+        "co2": 440
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:30:36.010104",
+        "temperature": -20.02,
+        "humidity": 13.54,
+        "co2": 647
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:30:38.010767",
+        "temperature": 40.65,
+        "humidity": 47.6,
+        "co2": 895
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:30:40.015306",
+        "temperature": 48.64,
+        "humidity": 99.51,
+        "co2": 927
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:30:42.017362",
+        "temperature": -5.7,
+        "humidity": 58.28,
+        "co2": 959
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:30:44.022444",
+        "temperature": 27.65,
+        "humidity": 66.39,
+        "co2": 1968
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:30:46.027071",
+        "temperature": 40.12,
+        "humidity": 84.16,
+        "co2": 1828
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:30:48.030177",
+        "temperature": -49.69,
+        "humidity": 88.64,
+        "co2": 966
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:30:50.034092",
+        "temperature": 18.13,
+        "humidity": 58.98,
+        "co2": 1684
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:30:52.035964",
+        "temperature": 23.64,
+        "humidity": 45.3,
+        "co2": 1460
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:30:54.041535",
+        "temperature": 42.99,
+        "humidity": 47.71,
+        "co2": 1811
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:30:56.046884",
+        "temperature": -31.04,
+        "humidity": 86.92,
+        "co2": 577
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:30:58.049648",
+        "temperature": -5.75,
+        "humidity": 8.42,
+        "co2": 1880
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:31:00.051735",
+        "temperature": -7.38,
+        "humidity": 50.91,
+        "co2": 501
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:31:02.055216",
+        "temperature": -23.47,
+        "humidity": 2.29,
+        "co2": 1097
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:31:04.058017",
+        "temperature": 41.89,
+        "humidity": 91.17,
+        "co2": 1333
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:31:06.062448",
+        "temperature": -15.82,
+        "humidity": 51.44,
+        "co2": 383
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:31:08.064115",
+        "temperature": -35.6,
+        "humidity": 36.13,
+        "co2": 1006
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:31:10.066154",
+        "temperature": -15.55,
+        "humidity": 18.86,
+        "co2": 1291
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:31:12.071394",
+        "temperature": -18.64,
+        "humidity": 46.44,
+        "co2": 1645
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:31:14.074496",
+        "temperature": 23.71,
+        "humidity": 73.39,
+        "co2": 1355
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:31:16.079170",
+        "temperature": -39.21,
+        "humidity": 23.02,
+        "co2": 437
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:31:50.225399",
+        "temperature": -16.61,
+        "humidity": 55.85,
+        "co2": 435
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:31:52.231046",
+        "temperature": -4.69,
+        "humidity": 10.65,
+        "co2": 350
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:31:54.235338",
+        "temperature": 9.88,
+        "humidity": 71.82,
+        "co2": 1234
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:33:35.505692",
+        "temperature": 47.54,
+        "humidity": 67.62,
+        "co2": 1806
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:33:37.511444",
+        "temperature": -42.78,
+        "humidity": 68.87,
+        "co2": 1254
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:33:39.517086",
+        "temperature": -20.42,
+        "humidity": 74.2,
+        "co2": 1265
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:33:41.520652",
+        "temperature": -30.88,
+        "humidity": 17.03,
+        "co2": 669
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:33:43.526320",
+        "temperature": -29.44,
+        "humidity": 84.74,
+        "co2": 1081
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:33:45.531954",
+        "temperature": 3.34,
+        "humidity": 21.87,
+        "co2": 333
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:33:47.534918",
+        "temperature": -36.52,
+        "humidity": 32.84,
+        "co2": 1378
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:33:49.540010",
+        "temperature": -46.9,
+        "humidity": 34.46,
+        "co2": 1457
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:33:51.541815",
+        "temperature": 39.57,
+        "humidity": 69.92,
+        "co2": 1911
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:34:32.614293",
+        "temperature": 30.84,
+        "humidity": 9.47,
+        "co2": 1874
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:34:34.618474",
+        "temperature": 38.02,
+        "humidity": 74.05,
+        "co2": 1326
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:34:36.623153",
+        "temperature": -26.04,
+        "humidity": 24.02,
+        "co2": 1193
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:34:38.627101",
+        "temperature": -4.53,
+        "humidity": 74.32,
+        "co2": 1529
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:34:40.632763",
+        "temperature": -21.69,
+        "humidity": 53.46,
+        "co2": 909
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:34:42.635008",
+        "temperature": -27.52,
+        "humidity": 8.29,
+        "co2": 821
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:34:44.640261",
+        "temperature": -19.7,
+        "humidity": 80.32,
+        "co2": 1247
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:34:46.643516",
+        "temperature": -42.02,
+        "humidity": 51.45,
+        "co2": 1169
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:34:48.649323",
+        "temperature": 42.69,
+        "humidity": 36.85,
+        "co2": 1344
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:34:50.653213",
+        "temperature": -47.99,
+        "humidity": 12.85,
+        "co2": 458
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:37:52.814734",
+        "temperature": 37.12,
+        "humidity": 81.56,
+        "co2": 595
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:37:54.820954",
+        "temperature": 27.28,
+        "humidity": 49.33,
+        "co2": 1777
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:37:56.827098",
+        "temperature": 27.64,
+        "humidity": 98.66,
+        "co2": 1168
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:37:58.833127",
+        "temperature": 39.61,
+        "humidity": 47.18,
+        "co2": 1206
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:38:00.837714",
+        "temperature": -30.2,
+        "humidity": 78.28,
+        "co2": 1191
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:38:02.843789",
+        "temperature": -23.42,
+        "humidity": 18.89,
+        "co2": 1723
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:38:04.849765",
+        "temperature": 10.27,
+        "humidity": 45.2,
+        "co2": 1579
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:38:06.853885",
+        "temperature": 30.33,
+        "humidity": 99.75,
+        "co2": 614
+    },
+    {
+        "station_id": "station_001",
+        "timestamp": "2025-03-26T23:38:08.857602",
+        "temperature": -8.23,
+        "humidity": 15.95,
+        "co2": 1821
+    }
+]
